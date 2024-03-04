@@ -48,9 +48,8 @@
             label1.AutoSize = true;
             label1.Location = new Point(399, 117);
             label1.Name = "label1";
-            label1.Size = new Size(43, 15);
+            label1.Size = new Size(0, 15);
             label1.TabIndex = 0;
-            label1.Text = "output";
             label1.Click += label1_Click;
             // 
             // button1
@@ -159,7 +158,7 @@
             button11.Name = "button11";
             button11.Size = new Size(50, 40);
             button11.TabIndex = 11;
-            button11.Text = "10";
+            button11.Text = "0";
             button11.UseVisualStyleBackColor = true;
             button11.Click += button11_Click;
             // 

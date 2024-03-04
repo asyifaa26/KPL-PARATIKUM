@@ -14,3 +14,4 @@ D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\refint\modul3.dll
 D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.pdb
 D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.genruntimeconfig.cache
 D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\ref\modul3.dll
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.sourcelink.json
