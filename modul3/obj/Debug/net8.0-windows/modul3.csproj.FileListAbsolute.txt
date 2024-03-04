@@ -1,0 +1,16 @@
+D:\modul03KPL\modul3\modul3\bin\Debug\net8.0-windows\modul3.exe
+D:\modul03KPL\modul3\modul3\bin\Debug\net8.0-windows\modul3.deps.json
+D:\modul03KPL\modul3\modul3\bin\Debug\net8.0-windows\modul3.runtimeconfig.json
+D:\modul03KPL\modul3\modul3\bin\Debug\net8.0-windows\modul3.dll
+D:\modul03KPL\modul3\modul3\bin\Debug\net8.0-windows\modul3.pdb
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.Form1.resources
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.csproj.GenerateResource.cache
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.AssemblyInfoInputs.cache
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.AssemblyInfo.cs
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.csproj.CoreCompileInputs.cache
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.dll
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\refint\modul3.dll
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.pdb
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\modul3.genruntimeconfig.cache
+D:\modul03KPL\modul3\modul3\obj\Debug\net8.0-windows\ref\modul3.dll
